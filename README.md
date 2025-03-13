@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,vscode,git)](https://skillicons.dev)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SValenca&bg_color=b1b1b1&color=f89b24&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SValenca&bg_color=000000&color=ffffff&line=b1b1b1&point=f19830&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
